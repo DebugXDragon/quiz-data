@@ -1,106 +1,794 @@
 [
-{"question": "In which year did the Government of India set up the first mutual fund by an Act of Parliament?"," options":["1979","1982","1963","1971"], "answer": "1963"},
-{"question": "Which of the following is considered a capital expense?"," options":["Pension","Payment of salaries","Subsidies","Construction of school buildings"], "answer": "Construction of school buildings"},
-"{""question"": ""In India, which of the following statements about the National Investment Fund is true?
-  Statements:
-  I. It was created in 2005.
-  II. 75% of its annual income was to be used for schemes promoting health, education and employment.
-  III. It was dissolved in 2018."","" options"":[""Only statement I"",""Only statement II"",""Only statements I and III"",""Only statements I and II""], ""answer"": ""Only statements I and II""},"
-{"question": "Which of the following is NOT a public sector insurance company?"," options":["United India Insurance Company Limited","The New India Assurance Company Limited","SBI Life Insurance","General Insurance Corporation of India"], "answer": "SBI Life Insurance"},
-{"question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015."," options":["40878","2013-14","38504","40087"], "answer": "40878"},
-{"question": "To which of the following sectors of the economy do Basel III norms belong?"," options":["Banking","Capital market","Automobile","Aviation"], "answer": "Banking"},
-{"question": "Which Indian finance minister was India’s delegate to the World Monetary Conference at Bretton Woods in 1944?"," options":["KC Neogy","CD Deshmukh","John Mathai","RK Shanmukham Chetty"], "answer": "RK Shanmukham Chetty"},
-{"question": "The difference between Revenue Receipts plus Non-debt Capital Receipts (NDCR) and total expenditure is called ______."," options":["Revenue Deficit","Fiscal Deficit","Effective Revenue Deficit","Primary Deficit"], "answer": "Fiscal Deficit"},
-{"question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________."," options":["42348","40879","41616","41248"], "answer": "40879"},
-{"question": "The ______ was nationalised in the year 1949."," options":["Union Bank of India","Reserve Bank of India","Central Bank of India","Imperial Bank of India"], "answer": "Reserve Bank of India"},
-{"question": "Who is known as the father of Blue Revolution in India?"," options":["Verghese Kurien","Sam Pitroda","Hiralal Chaudhuri","M.S. Swaminathan"], "answer": "Hiralal Chaudhuri"},
-{"question": "Amartya Sen was awarded the Noble Prize for his contribution to–"," options":["Monetary Economics","Welfare Economics","Econometrics","Development Economics"], "answer": "Welfare Economics"},
-{"question": "Labour Intensive Technique would get chosen in a–"," options":["Labour Surplus Economy","Capital Surplus Economy","Developed Economy","Developing Economy"], "answer": "Labour Surplus Economy"},
-{"question": "The Surplus earned by a factor other thus land in the short period is referred as –"," options":["Economic Rent","Net Rent","Quasi-Rent","Super-Normal Rent"], "answer": "Quasi-Rent"},
-{"question": "The Relationship between rate of interest and consumption level was firstly estimated by–"," options":["Amartya Sen","Milton Freedman","Irwing Fischer","James Duezan Berry"], "answer": "Milton Freedman"},
-{"question": "Due to worldwide great depression, ‘New Deal’ was declared by?"," options":["Abhraham Lincon","Benzamin Frankllin","J.F. Kennedy","Roozwelt"], "answer": "Roozwelt"},
-{"question": "Rent is a cost paid for–"," options":["Land","Restaurant","Building","Factory"], "answer": "Land"},
-{"question": "The Production of a commodity mostly through the natural process is an activity of–"," options":["Primary Sector","Secondary Sector","Tertiary Sector","Technology Sector"], "answer": "Primary Sector"},
-{"question": "The Social Accounting system in India is classified into–"," options":["Assets, Liabilities and Debt Position","Public sector, Private Sector and Joint Sector","Income, Product and Expenditure","Enterprise, Households and Government"], "answer": "Income, Product and Expenditure"},
-{"question": "Arthashastra by “Kautilya” is related with–"," options":["Military Phase","Political Reign","Social Phase","Economic Postulates"], "answer": "Political Reign"},
-{"question": "Where can we see the values of Indian democracy in the constitution?"," options":["Preamble","Part-3","Part-4","Part-1"], "answer": "Preamble"},
-{"question": "In which year, the name of Laccadive, Minicoy and Aminidivi Islands was changed in Lakshadweep by parliamentary act-"," options":["1973","1971","1970","1972"], "answer": "1973"},
-{"question": "How many states are in Union of India-"," options":["28","27","30","29"], "answer": "29"},
-{"question": "The number of union territories in India are-"," options":["5","7","9","6"], "answer": "7"},
-{"question": "Under Article 1 of the Indian constitution,it is declared that “Bharat means India shall be______”-"," options":["Union of States","Federal State of Unitary features","Federal State of Federal features","Federal state"], "answer": "Union of States"},
-{"question": "How India is defined article 1 of the constitution-"," options":["Federal","Federal with strong unitary base","Confederation","Union of states"], "answer": "Union of states"},
-{"question": "The division of power and Independence of judiciary are two important features of –"," options":["Democratic character of government","Federal character of government","Socialist character of government","Unitary character of government"], "answer": "Federal character of government"},
-{"question": "In which of the form, composit India has been described in the constitution-"," options":["A Union State","Semi-Federal","Federation of States and Territories","Partly Unitary and Partly Federal"], "answer": "Federation of States and Territories"},
-{"question": "In which of the following form, India has been described as in the constitution-"," options":["Confederation","Unitary","Union of states","Federation"], "answer": "Union of states"},
-{"question": "Where is the word “Federal” used in the constitution of India-"," options":["Preamble","Part3","Article 368","Nowhere in constitution"], "answer": "Nowhere in constitution"},
-{"question": "A and B can do a piece of work in 72 days. B and C can do it in 120 days. A and C can do it in 90 days. In how many days all three together can do the work ?"," options":["80 days","100 days","60 days","150 days"], "answer": "60 days"},
-{"question": "A is as efficient as B and C together. Working together A and B can complete a work in 36 days and C alone can complete it in 60 days. A and C work together for 10 days. B alone will complete the remaining work in:"," options":["88 days","110 days","84 days","90 days"], "answer": "110 days"},
-{"question": "Three pipes A, B can fill the tank in 12, 20 hrs respectively and C can empty the tank in 30 hours. If the pipes are opened alternatively for 1 hour starting with A and drain pipe is kept open all the time. How much time will it take to fill the tank."," options":["12","30","15","20"], "answer": "30"},
-{"question": "A and B can do a work together in 18 days. A is three times as efficient as B. In how many days can B alone complete the work?"," options":["60 days","72 days","54 days","64 days"], "answer": "72 days"},
-{"question": "A alone can do a piece of work in 15 days, while B alone can do it in 20 days. They work together for 6 days and the rest of the work is done by C in 6 days. If they get Rs 800 for the whole work, how should they divide the money?"," options":["Rs. 320, Rs. 240 and Rs. 240","Rs. 640, Rs. 280 and Rs. 260","Rs. 320, Rs. 420 and Rs. 360","Rs. 360, Rs. 420 and Rs. 240"], "answer": "Rs. 320, Rs. 240 and Rs. 240"},
-{"question": "The number of mainas and parrots in an aviary is in the ratio of (4x + 5) : 4x. If 25 mainas and 10 parrots are added to the aviary, then, the ratio would change to 5: 3. How many mainas are there in the aviary at initial?"," options":["20","30","35","25"], "answer": "25"},
-{"question": "The cost of printing a book increased from Rs. 96 to Rs. 120 from the year 2013 to 2018, such that the total money spent on printing books by a printing press increased in the ratio 5 ∶ 6. If the printing press printed 200 books in the year 2013, how many books did they print in the year 2018?"," options":["176","192","216","252"], "answer": "192"},
-{"question": "There are 240 workers and an amount of Rs. 2880 is to be divided among them. The ratio of total amount received to men and women is 5 : 4 and the ratio of the amount given to each man and each woman is 5 : 8. Find the number of men."," options":["120","140","160","180"], "answer": "160"},
-{"question": "A and B started a business in partnership. The ratio between the investments of A and B was 5: 4. If A invested for 12 months and at the end of the year the ratio of prot was 15: 8, then for how much time B invested?"," options":["8 months","9 months","6 months","10 months"], "answer": "8 months"},
-{"question": "4 years hence, the ratio of ages A and B will be 5: 7 and 6 years hence, the ratio of ages will be 11: 15, then and their present ages."," options":["20 years, 26 years","16 years, 24 years","18 years, 28 years","12 years, 18 years"], "answer": "16 years, 24 years"},
-{"question": "if 50% of (x-y) =30% of (x+y), then what percentage of x is y?"," options":["0.25","0.4","4","33.3333"], "answer": "0.25"},
-{"question": "What percent of 3.6kg is 72 gms ?"," options":["0.32","0.22","0.12","0.02"], "answer": "0.02"},
-{"question": "A travels 25% faster than B. They started their journey from a point P to another point Q and reach at the same time on point Q. Distance between P and Q is 85 km. On the way, however, A lost about 20 minutes while stopping for petrol. What was the speed of B?"," options":["51 km/hr","50 km/hr","45 km/hr","None of these"], "answer": "51 km/hr"},
-{"question": "Speed of boat in still water is 9 km/hr. Stream speed initially is 2 km/hr but it increases by 3 km/hr after every hour. Find the time after which boat will come back to the position where it started.(in hour)"," options":["5(5/8)","5(3/8)","4(3/4)","None of these"], "answer": "5(5/8)"},
-{"question": "Running at the speed of 3 km/hr., a person reaches his destination 10 minutes later than usual time. if he increases his speed by 1 km/hr., he reaches his destination 15 min earlier. and the distance to his destination."," options":["10 km","12 km","5 km","4 km"], "answer": "5 km"},
-{"question": "A man can row 52 km upstream and 42 km downstream in 10 hours. It is also known that he can row 66 km downstream and 60 km upstream in 13 hours. Find the speed of the man in still water."," options":["8 km/hr","12 km/hr","6 km/hr","10 km/h"], "answer": "10 km/h"},
-{"question": "A sum of money amounts to 5,200 in 5 years and to 5,680 in 7 years at simple interest. The rate of interest per annum is-"," options":["0.03","0.04","0.05","0.06"], "answer": "0.06"},
-{"question": "In how many years a sum of Rs. 3000 will yield an interest of Rs. 1080 at 12% per annum simple interest?"," options":["4 years","3 years","5 years","6 years"], "answer": "3 years"},
-{"question": "What annual instalment will discharge a debt of ₹ 6450 due in 4 years at 5% simple interest?"," options":["1500","1835","1935","1950"], "answer": "1500"},
-{"question": "Alipta got some amount of money from her father. In how many years will the ratio of the money and the interest obtained from it be 10:3 at the rate of 6% simple interest per annum?"," options":["7 years","3 years","5 years","4 years"], "answer": "5 years"},
-{"question": "The sum of money that will yield Rs. 60 as simple interest at the rate of 6% per annum in 5 years is-"," options":["200","225","175","300"], "answer": "200"},
-{"question": "A dealer buys a table listed at Rs 1,500 and gets successive discounts of 20% and 10%. He spends Rs. 20 on transportation and sells it at a profit of 20%. The selling price of the table is"," options":["Rs.1320","Rs.1350","Rs.1360","Rs.1380"], "answer": "Rs.1320"},
-{"question": "A store sells a watch for a profit of 25% of the cost. Then the percentage of profit against selling price is-"," options":["0.22","0.2","0.18","0.15"], "answer": "0.2"},
-{"question": "If the profit on selling an article for Rs. 425 is the same as the loss on selling it for Rs. 355, then the cost price of the article is"," options":["Rs. 390","Rs. 380","Rs. 400","Rs. 440"], "answer": "Rs. 390"},
-{"question": "By selling an article for Rs. 450, I lose 20%. For what price should I sell it to gain 20% ?"," options":["Rs. 562.50","Rs. 470","Rs. 490","Rs. 675"], "answer": "Rs. 675"},
-{"question": "There is 10% loss if an article is sold at Rs. 270. Then the cost price of the article is"," options":["Rs 320","Rs. 250","Rs. 300","Rs. 270"], "answer": "Rs 320"},
-{"question": "Three of the following four are alike in a certain way and they form a group. Which one is the one who does not join this group?"," options":["Barometer","Diameter","Thermometer","Lactometer"], "answer": "Diameter"},
-{"question": "In the following question, select the odd word pair from the given alternatives."," options":["Hanger : Aeroplane","Yard : Train","Depot : Bus","Scooter : Garage"], "answer": "Scooter : Garage"},
-{"question": "Directions: In each of the following questions, select the related word from the given alternatives.  Q : Suggestion : Demand :: Take : ?"," options":["Gain","Gift","Give","Snatch"], "answer": "Snatch"},
-{"question": "If A = 26 and TEA = 55, then SPATTER = ?"," options":["90","90","91","95"], "answer": "90"},
-{"question": "If COIL = 315912 and POLICE = 161512935 then PRICE = ?"," options":["1516824","1517824","1618935","1718935"], "answer": "1618935"},
-{"question": "In a certain code language, ORBIT is written as LUYLQ. How will GRADUATE be written as in that language?"," options":["DQHDUXGR","DUXGRDQH","XGRDQHDU","HDURDQGR"], "answer": "DUXGRDQH"},
-{"question": "In a certain code language, ‘JAN’ is written as ‘25’, ‘WED’ is written as ’32’. What is the code for ‘SEP’ in that code language?"," options":["38","40","39","36"], "answer": "40"},
-{"question": "If ‘DEAN’ is written as ‘NOKX’ then ‘NEED’ is written as :"," options":["NOOX","XONO","ONOX","XOON"], "answer": "XOON"},
-{"question": "Jayant introduces a man to his friend as his wife's father's son. The man is Jayant's _____"," options":["Brother-in-law","Sister-in-law","Father-in-law","Daughter-in-law"], "answer": "Brother-in-law"},
-{"question": "Sailu's mother is the daughter of Kalyan's sister. How is Kalyan's mother related to Sailu's mother?"," options":["Mother","Daughter","Sister","Grandmother"], "answer": "Grandmother"},
-{"question": "Leela introduces two girls to her friend as the daughters of the only sister of her father. Leela and the girls are ____."," options":["Cousins","Friends","Nieces","Twins"], "answer": "Cousins"},
-{"question": "A woman in a shopping complex walks 150 meter East, then she turns North and walks 180 meter, then she turns west and walks 70 meter, then she turns to her left and walks 180 meter. Where is she now with reference to her starting position?"," options":["180 meter","120 meter","80 meter","220 meter"], "answer": "80 meter"},
-{"question": "Vikram started from point R and walked straight 7 km west, then turned left and walked 2 km and again turned left and walked straight 4 km. In which direction is he from R?"," options":["North-East","South-West","South-East","North-West"], "answer": "North-West"},
-{"question": "Rashmi is 14th from the right end in a row of 40 girls. What is her position from the left end?"," options":["25th","27th","Can’t be determined","None of these"], "answer": "27th"},
-{"question": "Savita correctly remembers that Rahul birthday was after Monday but before Friday. Sandeep correctly remembers that Rahul's birthday was after Tuesday but before Saturday. On which day of the week does Rahul's birthday definitely fall?"," options":["Wednesday","Thursday","Friday","Can't be determined"], "answer": "Can't be determined"},
-{"question": "Nikhilesh is taller than Arvind who is taller than Mahendra. Naresh is smaller than Suresh but taller than Nikhilesh. Who is the smallest?"," options":["Nikhilesh","Arvind","Mahendra","Data inadequate"], "answer": "Mahendra"},
-{"question": "Which two signs have to be interchanged to correct the given equation? 52 + 64 – 16 ÷ 36 × 6=20"," options":["÷ and +","– and ÷","× and ÷","- and +"], "answer": "× and ÷"},
-{"question": "Which two numbers have to be interchanged to correct the given equation? 55 + 32 – 4 × ( 1 × 12 ) + ( 16 ÷ 4 ) =31"," options":["16 and 32","55 and 32","12 and 32","12 and 16"], "answer": "16 and 32"},
-{"question": "Six friends are sitting a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Q : Who is sitting opposite to Priti?"," options":["Prakash","Deepa","Pankaj","Lalit"], "answer": "Deepa"},
-{"question": "In the following question, from the given alternative words, select the word which can be formed using the letters of the given word. CAPITULATE"," options":["CAPABLE","TALE","PITTY","LUPIN"], "answer": "TALE"},
-{"question": "In the following question, from the given alternative words, select the word which cannot be formed using the letters of the given word. Abandoned"," options":["Bonded","Banded","Bland","Bane"], "answer": "Bland"},
-{"question": "A is son of B while B and C are the sisters to one another. D is the mother of C. If E is the son of D, which one of the following statements is correct?"," options":["C is the grandmother of A.","E is the maternal uncle of A.","D is aunt of A.","B is aunt of E."], "answer": "E is the maternal uncle of A."},
-{"question": "If P ÷ Q means that P is the mother of Q, P × Q means that P is the father of Q, P – Q means that P is the sister of Q, then which of the following expression shows that A is the father of C?"," options":["B × A – C","A × B – C","A × B ÷ C","A – B × C"], "answer": "A × B – C"},
-{"question": "If L × M means that L is the mother of M, L – M means that L is the father of M, L ÷ M means that L is the sister of M, then which of the following expression shows that P is the father of R?"," options":["Q – P × R","P – Q × R","P – Q ÷ R","R – P × Q"], "answer": "P – Q ÷ R"},
-{"question": "If A + B means that A is the brother of B, A × B means that A is the sister of B, A ÷ B means that A is the father of B then which of the following expression shows that P is the brother of R?"," options":["P + Q ÷ R","P + Q × R","P × Q + R","P + R × Q"], "answer": "P + Q × R"},
-{"question": "If A × B means that A is the father of B, A –B means that A is the mother of B, A ÷ B means that A is the brother of B then which of the following expression shows that P is the father of R?"," options":["P ÷ Q × R","P × Q ÷ R","P × Q – R","P × R ÷ Q"], "answer": "P × Q ÷ R"},
-{"question": "The boy ____ came to see me this morning had come from Agra."," options":["which","who","that","whom"], "answer": "who"},
-{"question": "You _____ be mad if you think I’m going to lend you any more money."," options":["might","should","ought to","must"], "answer": "must"},
-{"question": "Having ______ in both government and private schools, Palak is the most suitable person to take over as the principal of the school."," options":["works","working","worked","was working"], "answer": "worked"},
-{"question": "The rotten smell was so _________ that she became unconscious then and there and had to be hospitalized."," options":["revolting","gratifying","captivating","unappealing"], "answer": "revolting"},
-{"question": "Single-use plastic refers to the entire class of items that are used once and then _____ of."," options":["thought","excluded","abandoned","disposed"], "answer": "disposed"},
-{"question": "Yesterday, the villagers caught a burglar _______ a bottle of oil from the community hall."," options":["embezzling","frauding","swindling","pilfering"], "answer": "pilfering"},
-{"question": "Right now, the concern is about banks not lowering their lending rates fast enough, ______ the repo rate has been coming down."," options":["because","since","although","from"], "answer": "although"},
-{"question": "Smoking will never be given up, _____ the tobacco industry thrives."," options":["so that","as long as","though","as if"], "answer": "as long as"},
-{"question": "Are you looking forward ____ Akhil again?"," options":["seeing","to see","to be seeing","to seeing"], "answer": "to seeing"},
-{"question": "He _____ a lot of letters yesterday."," options":["had written","had been writing","wrote","has written"], "answer": "wrote"},
-{"question": "Banks should be left free to set their lending rates, in ______ with their cost of funds and market conditions, apart from borrower profile."," options":["lending","meeting","settling","accordance"], "answer": "accordance"},
-{"question": "The police commissioner condemned the _________ murder and vowed to apprehend the wrongdoers within a fortnight."," options":["grisly","gruesome","All of the above","ghastly"], "answer": "All of the above"},
-{"question": "The ________ apparition stalked Reshma for days and ultimately threw her off the cliff."," options":["vindictive","benevolent","magnanimous","callous"], "answer": "vindictive"},
-{"question": "A heavy storm was forecast _____ the weather was clear."," options":["but","because","unless","and"], "answer": "but"},
-{"question": "If he had gone to Agra, he _____ the Taj Mahal."," options":["have been seen","had been seen","saw","would have seen"], "answer": "would have seen"},
-{"question": "It will make a bad economic situation marginally ______ and, perhaps, even create a black market in certain articles."," options":["good","worse","better","weaker"], "answer": "worse"},
-{"question": "India’s problem is not the paucity of traffic rules and regulations but a general ______ for them."," options":["insistence","absence","allocation","disregard"], "answer": "disregard"},
-{"question": "The Mekong is also home ______ the world’s largest catfish."," options":["for","in","to","within"], "answer": "to"}
+  {
+    "question": "In which year did the Government of India set up the first mutual fund by an Act of Parliament?",
+    "option1": 1979,
+    "option2": 1982,
+    "option3": 1963,
+    "option4": 1971,
+    "answer": 1963
+  },
+  {
+    "question": "Which of the following is considered a capital expense?",
+    "option1": "Pension",
+    "option2": "Payment of salaries",
+    "option3": "Subsidies",
+    "option4": "Construction of school buildings",
+    "answer": "Construction of school buildings"
+  },
+  {
+    "question": "Which of the following is NOT a public sector insurance company?",
+    "option1": "United India Insurance Company Limited",
+    "option2": "The New India Assurance Company Limited",
+    "option3": "SBI Life Insurance",
+    "option4": "General Insurance Corporation of India",
+    "answer": "SBI Life Insurance"
+  },
+  {
+    "question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
+    "option1": "2011-12",
+    "option2": "2013-14",
+    "option3": "2005-06",
+    "option4": "2009-10",
+    "answer": "2011-12"
+  },
+  {
+    "question": "To which of the following sectors of the economy do Basel III norms belong?",
+    "option1": "Banking",
+    "option2": "Capital market",
+    "option3": "Automobile",
+    "option4": "Aviation",
+    "answer": "Banking"
+  },
+  {
+    "question": "Which Indian finance minister was India’s delegate to the World Monetary Conference at Bretton Woods in 1944?",
+    "option1": "KC Neogy",
+    "option2": "CD Deshmukh",
+    "option3": "John Mathai",
+    "option4": "RK Shanmukham Chetty",
+    "answer": "RK Shanmukham Chetty"
+  },
+  {
+    "question": "The difference between Revenue Receipts plus Non-debt Capital Receipts (NDCR) and total expenditure is called ______.",
+    "option1": "Revenue Deficit",
+    "option2": "Fiscal Deficit",
+    "option3": "Effective Revenue Deficit",
+    "option4": "Primary Deficit",
+    "answer": "Fiscal Deficit"
+  },
+  {
+    "question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
+    "option1": "10-Dec-15",
+    "option2": "02-Dec-11",
+    "option3": "8 December 2013",
+    "option4": "05-Dec-12",
+    "answer": "02-Dec-11"
+  },
+  {
+    "question": "The ______ was nationalised in the year 1949.",
+    "option1": "Union Bank of India",
+    "option2": "Reserve Bank of India",
+    "option3": "Central Bank of India",
+    "option4": "Imperial Bank of India",
+    "answer": "Reserve Bank of India"
+  },
+  {
+    "question": "Who is known as the father of Blue Revolution in India?",
+    "option1": "Verghese Kurien",
+    "option2": "Sam Pitroda",
+    "option3": "Hiralal Chaudhuri",
+    "option4": "M.S. Swaminathan",
+    "answer": "Hiralal Chaudhuri"
+  },
+  {
+    "question": "Amartya Sen was awarded the Noble Prize for his contribution to–",
+    "option1": "Monetary Economics",
+    "option2": "Welfare Economics",
+    "option3": "Econometrics",
+    "option4": "Development Economics",
+    "answer": "Welfare Economics"
+  },
+  {
+    "question": "Labour Intensive Technique would get chosen in a–",
+    "option1": "Labour Surplus Economy",
+    "option2": "Capital Surplus Economy",
+    "option3": "Developed Economy",
+    "option4": "Developing Economy",
+    "answer": "Labour Surplus Economy"
+  },
+  {
+    "question": "The Surplus earned by a factor other thus land in the short period is referred as –",
+    "option1": "Economic Rent",
+    "option2": "Net Rent",
+    "option3": "Quasi-Rent",
+    "option4": "Super-Normal Rent",
+    "answer": "Quasi-Rent"
+  },
+  {
+    "question": "The Relationship between rate of interest and consumption level was firstly estimated by–",
+    "option1": "Amartya Sen",
+    "option2": "Milton Freedman",
+    "option3": "Irwing Fischer",
+    "option4": "James Duezan Berry",
+    "answer": "Milton Freedman"
+  },
+  {
+    "question": "Due to worldwide great depression, ‘New Deal’ was declared by?",
+    "option1": "Abhraham Lincon",
+    "option2": "Benzamin Frankllin",
+    "option3": "J.F. Kennedy",
+    "option4": "Roozwelt",
+    "answer": "Roozwelt"
+  },
+  {
+    "question": "Rent is a cost paid for–",
+    "option1": "Land",
+    "option2": "Restaurant",
+    "option3": "Building",
+    "option4": "Factory",
+    "answer": "Land"
+  },
+  {
+    "question": "The Production of a commodity mostly through the natural process is an activity of–",
+    "option1": "Primary Sector",
+    "option2": "Secondary Sector",
+    "option3": "Tertiary Sector",
+    "option4": "Technology Sector",
+    "answer": "Primary Sector"
+  },
+  {
+    "question": "The Social Accounting system in India is classified into–",
+    "option1": "Assets, Liabilities and Debt Position",
+    "option2": "Public sector, Private Sector and Joint Sector",
+    "option3": "Income, Product and Expenditure",
+    "option4": "Enterprise, Households and Government",
+    "answer": "Income, Product and Expenditure"
+  },
+  {
+    "question": "Arthashastra by “Kautilya” is related with–",
+    "option1": "Military Phase",
+    "option2": "Political Reign",
+    "option3": "Social Phase",
+    "option4": "Economic Postulates",
+    "answer": "Political Reign"
+  },
+  {
+    "question": "Where can we see the values of Indian democracy in the constitution?",
+    "option1": "Preamble",
+    "option2": "Part-3",
+    "option3": "Part-4",
+    "option4": "Part-1",
+    "answer": "Preamble"
+  },
+  {
+    "question": "In which year, the name of Laccadive, Minicoy and Aminidivi Islands was changed in Lakshadweep by parliamentary act-",
+    "option1": 1973,
+    "option2": 1971,
+    "option3": 1970,
+    "option4": 1972,
+    "answer": 1973
+  },
+  {
+    "question": "How many states are in Union of India-",
+    "option1": 28,
+    "option2": 27,
+    "option3": 30,
+    "option4": 29,
+    "answer": 29
+  },
+  {
+    "question": "The number of union territories in India are-",
+    "option1": 5,
+    "option2": 7,
+    "option3": 9,
+    "option4": 6,
+    "answer": 7
+  },
+  {
+    "question": "Under Article 1 of the Indian constitution,it is declared that “Bharat means India shall be______”-",
+    "option1": "Union of States",
+    "option2": "Federal State of Unitary features",
+    "option3": "Federal State of Federal features",
+    "option4": "Federal state",
+    "answer": "Union of States"
+  },
+  {
+    "question": "How India is defined article 1 of the constitution-",
+    "option1": "Federal",
+    "option2": "Federal with strong unitary base",
+    "option3": "Confederation",
+    "option4": "Union of states",
+    "answer": "Union of states"
+  },
+  {
+    "question": "The division of power and Independence of judiciary are two important features of –",
+    "option1": "Democratic character of government",
+    "option2": "Federal character of government",
+    "option3": "Socialist character of government",
+    "option4": "Unitary character of government",
+    "answer": "Federal character of government"
+  },
+  {
+    "question": "In which of the form, composit India has been described in the constitution-",
+    "option1": "A Union State",
+    "option2": "Semi-Federal",
+    "option3": "Federation of States and Territories",
+    "option4": "Partly Unitary and Partly Federal",
+    "answer": "Federation of States and Territories"
+  },
+  {
+    "question": "In which of the following form, India has been described as in the constitution-",
+    "option1": "Confederation",
+    "option2": "Unitary",
+    "option3": "Union of states",
+    "option4": "Federation",
+    "answer": "Union of states"
+  },
+  {
+    "question": "Where is the word “Federal” used in the constitution of India-",
+    "option1": "Preamble",
+    "option2": "Part3",
+    "option3": "Article 368",
+    "option4": "Nowhere in constitution",
+    "answer": "Nowhere in constitution"
+  },
+  {
+    "question": "A and B can do a piece of work in 72 days. B and C can do it in 120 days. A and C can do it in 90 days. In how many days all three together can do the work ?",
+    "option1": "80 days",
+    "option2": "100 days",
+    "option3": "60 days",
+    "option4": "150 days",
+    "answer": "60 days"
+  },
+  {
+    "question": "A is as efficient as B and C together. Working together A and B can complete a work in 36 days and C alone can complete it in 60 days. A and C work together for 10 days. B alone will complete the remaining work in:",
+    "option1": "88 days",
+    "option2": "110 days",
+    "option3": "84 days",
+    "option4": "90 days",
+    "answer": "110 days"
+  },
+  {
+    "question": "Three pipes A, B can fill the tank in 12, 20 hrs respectively and C can empty the tank in 30 hours. If the pipes are opened alternatively for 1 hour starting with A and drain pipe is kept open all the time. How much time will it take to fill the tank.",
+    "option1": 12,
+    "option2": 30,
+    "option3": 15,
+    "option4": 20,
+    "answer": 30
+  },
+  {
+    "question": "A and B can do a work together in 18 days. A is three times as efficient as B. In how many days can B alone complete the work?",
+    "option1": "60 days",
+    "option2": "72 days",
+    "option3": "54 days",
+    "option4": "64 days",
+    "answer": "72 days"
+  },
+  {
+    "question": "A alone can do a piece of work in 15 days, while B alone can do it in 20 days. They work together for 6 days and the rest of the work is done by C in 6 days. If they get Rs 800 for the whole work, how should they divide the money?",
+    "option1": "Rs. 320, Rs. 240 and Rs. 240",
+    "option2": "Rs. 640, Rs. 280 and Rs. 260",
+    "option3": "Rs. 320, Rs. 420 and Rs. 360",
+    "option4": "Rs. 360, Rs. 420 and Rs. 240",
+    "answer": "Rs. 320, Rs. 240 and Rs. 240"
+  },
+  {
+    "question": "The number of mainas and parrots in an aviary is in the ratio of (4x + 5) : 4x. If 25 mainas and 10 parrots are added to the aviary, then, the ratio would change to 5: 3. How many mainas are there in the aviary at initial?",
+    "option1": 20,
+    "option2": 30,
+    "option3": 35,
+    "option4": 25,
+    "answer": 25
+  },
+  {
+    "question": "The cost of printing a book increased from Rs. 96 to Rs. 120 from the year 2013 to 2018, such that the total money spent on printing books by a printing press increased in the ratio 5 ∶ 6. If the printing press printed 200 books in the year 2013, how many books did they print in the year 2018?",
+    "option1": 176,
+    "option2": 192,
+    "option3": 216,
+    "option4": 252,
+    "answer": 192
+  },
+  {
+    "question": "There are 240 workers and an amount of Rs. 2880 is to be divided among them. The ratio of total amount received to men and women is 5 : 4 and the ratio of the amount given to each man and each woman is 5 : 8. Find the number of men.",
+    "option1": 120,
+    "option2": 140,
+    "option3": 160,
+    "option4": 180,
+    "answer": 160
+  },
+  {
+    "question": "A and B started a business in partnership. The ratio between the investments of A and B was 5: 4. If A invested for 12 months and at the end of the year the ratio of prot was 15: 8, then for how much time B invested?",
+    "option1": "8 months",
+    "option2": "9 months",
+    "option3": "6 months",
+    "option4": "10 months",
+    "answer": "8 months"
+  },
+  {
+    "question": "4 years hence, the ratio of ages A and B will be 5: 7 and 6 years hence, the ratio of ages will be 11: 15, then and their present ages.",
+    "option1": "20 years, 26 years",
+    "option2": "16 years, 24 years",
+    "option3": "18 years, 28 years",
+    "option4": "12 years, 18 years",
+    "answer": "16 years, 24 years"
+  },
+  {
+    "question": "if 50% of (x-y) =30% of (x+y), then what percentage of x is y?",
+    "option1": "25%",
+    "option2": "40%",
+    "option3": "400%",
+    "option4": 33.3333,
+    "answer": "25%"
+  },
+  {
+    "question": "What percent of 3.6kg is 72 gms ?",
+    "option1": "32%",
+    "option2": "22%",
+    "option3": "12%",
+    "option4": "2%",
+    "answer": "2%"
+  },
+  {
+    "question": "A travels 25% faster than B. They started their journey from a point P to another point Q and reach at the same time on point Q. Distance between P and Q is 85 km. On the way, however, A lost about 20 minutes while stopping for petrol. What was the speed of B?",
+    "option1": "51 km/hr",
+    "option2": "50 km/hr",
+    "option3": "45 km/hr",
+    "option4": "None of these",
+    "answer": "51 km/hr"
+  },
+  {
+    "question": "Speed of boat in still water is 9 km/hr. Stream speed initially is 2 km/hr but it increases by 3 km/hr after every hour. Find the time after which boat will come back to the position where it started.(in hour)",
+    "option1": "5(5/8)",
+    "option2": "5(3/8)",
+    "option3": "4(3/4)",
+    "option4": "None of these",
+    "answer": "5(5/8)"
+  },
+  {
+    "question": "Running at the speed of 3 km/hr., a person reaches his destination 10 minutes later than usual time. if he increases his speed by 1 km/hr., he reaches his destination 15 min earlier. and the distance to his destination.",
+    "option1": "10 km",
+    "option2": "12 km",
+    "option3": "5 km",
+    "option4": "4 km",
+    "answer": "5 km"
+  },
+  {
+    "question": "A man can row 52 km upstream and 42 km downstream in 10 hours. It is also known that he can row 66 km downstream and 60 km upstream in 13 hours. Find the speed of the man in still water.",
+    "option1": "8 km/hr",
+    "option2": "12 km/hr",
+    "option3": "6 km/hr",
+    "option4": "10 km/h",
+    "answer": "10 km/h"
+  },
+  {
+    "question": "A sum of money amounts to 5,200 in 5 years and to 5,680 in 7 years at simple interest. The rate of interest per annum is-",
+    "option1": "3%",
+    "option2": "4%",
+    "option3": "5%",
+    "option4": "6%",
+    "answer": "6%"
+  },
+  {
+    "question": "In how many years a sum of Rs. 3000 will yield an interest of Rs. 1080 at 12% per annum simple interest?",
+    "option1": "4 years",
+    "option2": "3 years",
+    "option3": "5 years",
+    "option4": "6 years",
+    "answer": "3 years"
+  },
+  {
+    "question": "What annual instalment will discharge a debt of ₹ 6450 due in 4 years at 5% simple interest?",
+    "option1": 1500,
+    "option2": 1835,
+    "option3": 1935,
+    "option4": 1950,
+    "answer": 1500
+  },
+  {
+    "question": "Alipta got some amount of money from her father. In how many years will the ratio of the money and the interest obtained from it be 10:3 at the rate of 6% simple interest per annum?",
+    "option1": "7 years",
+    "option2": "3 years",
+    "option3": "5 years",
+    "option4": "4 years",
+    "answer": "5 years"
+  },
+  {
+    "question": "The sum of money that will yield Rs. 60 as simple interest at the rate of 6% per annum in 5 years is-",
+    "option1": 200,
+    "option2": 225,
+    "option3": 175,
+    "option4": 300,
+    "answer": 200
+  },
+  {
+    "question": "A dealer buys a table listed at Rs 1,500 and gets successive discounts of 20% and 10%. He spends Rs. 20 on transportation and sells it at a profit of 20%. The selling price of the table is",
+    "option1": "Rs.1320",
+    "option2": "Rs.1350",
+    "option3": "Rs.1360",
+    "option4": "Rs.1380",
+    "answer": "Rs.1320"
+  },
+  {
+    "question": "A store sells a watch for a profit of 25% of the cost. Then the percentage of profit against selling price is-",
+    "option1": "22%",
+    "option2": "20%",
+    "option3": "18%",
+    "option4": "15%",
+    "answer": "20%"
+  },
+  {
+    "question": "If the profit on selling an article for Rs. 425 is the same as the loss on selling it for Rs. 355, then the cost price of the article is",
+    "option1": "Rs. 390",
+    "option2": "Rs. 380",
+    "option3": "Rs. 400",
+    "option4": "Rs. 440",
+    "answer": "Rs. 390"
+  },
+  {
+    "question": "By selling an article for Rs. 450, I lose 20%. For what price should I sell it to gain 20% ?",
+    "option1": "Rs. 562.50",
+    "option2": "Rs. 470",
+    "option3": "Rs. 490",
+    "option4": "Rs. 675",
+    "answer": "Rs. 675"
+  },
+  {
+    "question": "There is 10% loss if an article is sold at Rs. 270. Then the cost price of the article is",
+    "option1": "Rs 320",
+    "option2": "Rs. 250",
+    "option3": "Rs. 300",
+    "option4": "Rs. 270",
+    "answer": "Rs 320"
+  },
+  {
+    "question": "Three of the following four are alike in a certain way and they form a group. Which one is the one who does not join this group?",
+    "option1": "Barometer",
+    "option2": "Diameter",
+    "option3": "Thermometer",
+    "option4": "Lactometer",
+    "answer": "Diameter"
+  },
+  {
+    "question": "In the following question, select the odd word pair from the given alternatives.",
+    "option1": "Hanger : Aeroplane",
+    "option2": "Yard : Train",
+    "option3": "Depot : Bus",
+    "option4": "Scooter : Garage",
+    "answer": "Scooter : Garage"
+  },
+  {
+    "question": "Directions: In each of the following questions, select the related word from the given alternatives.  Q : Suggestion : Demand :: Take : ?",
+    "option1": "Gain",
+    "option2": "Gift",
+    "option3": "Give",
+    "option4": "Snatch",
+    "answer": "Snatch"
+  },
+  {
+    "question": "If A = 26 and TEA = 55, then SPATTER = ?",
+    "option1": 90,
+    "option2": 90,
+    "option3": 91,
+    "option4": 95,
+    "answer": 90
+  },
+  {
+    "question": "If COIL = 315912 and POLICE = 161512935 then PRICE = ?",
+    "option1": 1516824,
+    "option2": 1517824,
+    "option3": 1618935,
+    "option4": 1718935,
+    "answer": 1618935
+  },
+  {
+    "question": "In a certain code language, ORBIT is written as LUYLQ. How will GRADUATE be written as in that language?",
+    "option1": "DQHDUXGR",
+    "option2": "DUXGRDQH",
+    "option3": "XGRDQHDU",
+    "option4": "HDURDQGR",
+    "answer": "DUXGRDQH"
+  },
+  {
+    "question": "In a certain code language, ‘JAN’ is written as ‘25’, ‘WED’ is written as ’32’. What is the code for ‘SEP’ in that code language?",
+    "option1": 38,
+    "option2": 40,
+    "option3": 39,
+    "option4": 36,
+    "answer": 40
+  },
+  {
+    "question": "If ‘DEAN’ is written as ‘NOKX’ then ‘NEED’ is written as :",
+    "option1": "NOOX",
+    "option2": "XONO",
+    "option3": "ONOX",
+    "option4": "XOON",
+    "answer": "XOON"
+  },
+  {
+    "question": "Jayant introduces a man to his friend as his wife's father's son. The man is Jayant's _____",
+    "option1": "Brother-in-law",
+    "option2": "Sister-in-law",
+    "option3": "Father-in-law",
+    "option4": "Daughter-in-law",
+    "answer": "Brother-in-law"
+  },
+  {
+    "question": "Sailu's mother is the daughter of Kalyan's sister. How is Kalyan's mother related to Sailu's mother?",
+    "option1": "Mother",
+    "option2": "Daughter",
+    "option3": "Sister",
+    "option4": "Grandmother",
+    "answer": "Grandmother"
+  },
+  {
+    "question": "Leela introduces two girls to her friend as the daughters of the only sister of her father. Leela and the girls are ____.",
+    "option1": "Cousins",
+    "option2": "Friends",
+    "option3": "Nieces",
+    "option4": "Twins",
+    "answer": "Cousins"
+  },
+  {
+    "question": "A woman in a shopping complex walks 150 meter East, then she turns North and walks 180 meter, then she turns west and walks 70 meter, then she turns to her left and walks 180 meter. Where is she now with reference to her starting position?",
+    "option1": "180 meter",
+    "option2": "120 meter",
+    "option3": "80 meter",
+    "option4": "220 meter",
+    "answer": "80 meter"
+  },
+  {
+    "question": "Vikram started from point R and walked straight 7 km west, then turned left and walked 2 km and again turned left and walked straight 4 km. In which direction is he from R?",
+    "option1": "North-East",
+    "option2": "South-West",
+    "option3": "South-East",
+    "option4": "North-West",
+    "answer": "North-West"
+  },
+  {
+    "question": "Rashmi is 14th from the right end in a row of 40 girls. What is her position from the left end?",
+    "option1": "25th",
+    "option2": "27th",
+    "option3": "Can’t be determined",
+    "option4": "None of these",
+    "answer": "27th"
+  },
+  {
+    "question": "Savita correctly remembers that Rahul birthday was after Monday but before Friday. Sandeep correctly remembers that Rahul's birthday was after Tuesday but before Saturday. On which day of the week does Rahul's birthday definitely fall?",
+    "option1": "Wednesday",
+    "option2": "Thursday",
+    "option3": "Friday",
+    "option4": "Can't be determined",
+    "answer": "Can't be determined"
+  },
+  {
+    "question": "Nikhilesh is taller than Arvind who is taller than Mahendra. Naresh is smaller than Suresh but taller than Nikhilesh. Who is the smallest?",
+    "option1": "Nikhilesh",
+    "option2": "Arvind",
+    "option3": "Mahendra",
+    "option4": "Data inadequate",
+    "answer": "Mahendra"
+  },
+  {
+    "question": "Which two signs have to be interchanged to correct the given equation? 52 + 64 – 16 ÷ 36 × 6=20",
+    "option1": "÷ and +",
+    "option2": "– and ÷",
+    "option3": "× and ÷",
+    "option4": "- and +",
+    "answer": "× and ÷"
+  },
+  {
+    "question": "Which two numbers have to be interchanged to correct the given equation? 55 + 32 – 4 × ( 1 × 12 ) + ( 16 ÷ 4 ) =31",
+    "option1": "16 and 32",
+    "option2": "55 and 32",
+    "option3": "12 and 32",
+    "option4": "12 and 16",
+    "answer": "16 and 32"
+  },
+  {
+    "question": "Six friends are sitting a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Q : Who is sitting opposite to Priti?",
+    "option1": "Prakash",
+    "option2": "Deepa",
+    "option3": "Pankaj",
+    "option4": "Lalit",
+    "answer": "Deepa"
+  },
+  {
+    "question": "In the following question, from the given alternative words, select the word which can be formed using the letters of the given word. CAPITULATE",
+    "option1": "CAPABLE",
+    "option2": "TALE",
+    "option3": "PITTY",
+    "option4": "LUPIN",
+    "answer": "TALE"
+  },
+  {
+    "question": "In the following question, from the given alternative words, select the word which cannot be formed using the letters of the given word. Abandoned",
+    "option1": "Bonded",
+    "option2": "Banded",
+    "option3": "Bland",
+    "option4": "Bane",
+    "answer": "Bland"
+  },
+  {
+    "question": "A is son of B while B and C are the sisters to one another. D is the mother of C. If E is the son of D, which one of the following statements is correct?",
+    "option1": "C is the grandmother of A.",
+    "option2": "E is the maternal uncle of A.",
+    "option3": "D is aunt of A.",
+    "option4": "B is aunt of E.",
+    "answer": "E is the maternal uncle of A."
+  },
+  {
+    "question": "If P ÷ Q means that P is the mother of Q, P × Q means that P is the father of Q, P – Q means that P is the sister of Q, then which of the following expression shows that A is the father of C?",
+    "option1": "B × A – C",
+    "option2": "A × B – C",
+    "option3": "A × B ÷ C",
+    "option4": "A – B × C",
+    "answer": "A × B – C"
+  },
+  {
+    "question": "If L × M means that L is the mother of M, L – M means that L is the father of M, L ÷ M means that L is the sister of M, then which of the following expression shows that P is the father of R?",
+    "option1": "Q – P × R",
+    "option2": "P – Q × R",
+    "option3": "P – Q ÷ R",
+    "option4": "R – P × Q",
+    "answer": "P – Q ÷ R"
+  },
+  {
+    "question": "If A + B means that A is the brother of B, A × B means that A is the sister of B, A ÷ B means that A is the father of B then which of the following expression shows that P is the brother of R?",
+    "option1": "P + Q ÷ R",
+    "option2": "P + Q × R",
+    "option3": "P × Q + R",
+    "option4": "P + R × Q",
+    "answer": "P + Q × R"
+  },
+  {
+    "question": "If A × B means that A is the father of B, A –B means that A is the mother of B, A ÷ B means that A is the brother of B then which of the following expression shows that P is the father of R?",
+    "option1": "P ÷ Q × R",
+    "option2": "P × Q ÷ R",
+    "option3": "P × Q – R",
+    "option4": "P × R ÷ Q",
+    "answer": "P × Q ÷ R"
+  },
+  {
+    "question": "The boy ____ came to see me this morning had come from Agra.",
+    "option1": "which",
+    "option2": "who",
+    "option3": "that",
+    "option4": "whom",
+    "answer": "who"
+  },
+  {
+    "question": "You _____ be mad if you think I’m going to lend you any more money.",
+    "option1": "might",
+    "option2": "should",
+    "option3": "ought to",
+    "option4": "must",
+    "answer": "must"
+  },
+  {
+    "question": "Having ______ in both government and private schools, Palak is the most suitable person to take over as the principal of the school.",
+    "option1": "works",
+    "option2": "working",
+    "option3": "worked",
+    "option4": "was working",
+    "answer": "worked"
+  },
+  {
+    "question": "The rotten smell was so _________ that she became unconscious then and there and had to be hospitalized.",
+    "option1": "revolting",
+    "option2": "gratifying",
+    "option3": "captivating",
+    "option4": "unappealing",
+    "answer": "revolting"
+  },
+  {
+    "question": "Single-use plastic refers to the entire class of items that are used once and then _____ of.",
+    "option1": "thought",
+    "option2": "excluded",
+    "option3": "abandoned",
+    "option4": "disposed",
+    "answer": "disposed"
+  },
+  {
+    "question": "Yesterday, the villagers caught a burglar _______ a bottle of oil from the community hall.",
+    "option1": "embezzling",
+    "option2": "frauding",
+    "option3": "swindling",
+    "option4": "pilfering",
+    "answer": "pilfering"
+  },
+  {
+    "question": "Right now, the concern is about banks not lowering their lending rates fast enough, ______ the repo rate has been coming down.",
+    "option1": "because",
+    "option2": "since",
+    "option3": "although",
+    "option4": "from",
+    "answer": "although"
+  },
+  {
+    "question": "Smoking will never be given up, _____ the tobacco industry thrives.",
+    "option1": "so that",
+    "option2": "as long as",
+    "option3": "though",
+    "option4": "as if",
+    "answer": "as long as"
+  },
+  {
+    "question": "Are you looking forward ____ Akhil again?",
+    "option1": "seeing",
+    "option2": "to see",
+    "option3": "to be seeing",
+    "option4": "to seeing",
+    "answer": "to seeing"
+  },
+  {
+    "question": "He _____ a lot of letters yesterday.",
+    "option1": "had written",
+    "option2": "had been writing",
+    "option3": "wrote",
+    "option4": "has written",
+    "answer": "wrote"
+  },
+  {
+    "question": "Banks should be left free to set their lending rates, in ______ with their cost of funds and market conditions, apart from borrower profile.",
+    "option1": "lending",
+    "option2": "meeting",
+    "option3": "settling",
+    "option4": "accordance",
+    "answer": "accordance"
+  },
+  {
+    "question": "The police commissioner condemned the _________ murder and vowed to apprehend the wrongdoers within a fortnight.",
+    "option1": "grisly",
+    "option2": "gruesome",
+    "option3": "All of the above",
+    "option4": "ghastly",
+    "answer": "All of the above"
+  },
+  {
+    "question": "The ________ apparition stalked Reshma for days and ultimately threw her off the cliff.",
+    "option1": "vindictive",
+    "option2": "benevolent",
+    "option3": "magnanimous",
+    "option4": "callous",
+    "answer": "vindictive"
+  },
+  {
+    "question": "A heavy storm was forecast _____ the weather was clear.",
+    "option1": "but",
+    "option2": "because",
+    "option3": "unless",
+    "option4": "and",
+    "answer": "but"
+  },
+  {
+    "question": "If he had gone to Agra, he _____ the Taj Mahal.",
+    "option1": "have been seen",
+    "option2": "had been seen",
+    "option3": "saw",
+    "option4": "would have seen",
+    "answer": "would have seen"
+  },
+  {
+    "question": "It will make a bad economic situation marginally ______ and, perhaps, even create a black market in certain articles.",
+    "option1": "good",
+    "option2": "worse",
+    "option3": "better",
+    "option4": "weaker",
+    "answer": "worse"
+  },
+  {
+    "question": "India’s problem is not the paucity of traffic rules and regulations but a general ______ for them.",
+    "option1": "insistence",
+    "option2": "absence",
+    "option3": "allocation",
+    "option4": "disregard",
+    "answer": "disregard"
+  },
+  {
+    "question": "The Mekong is also home ______ the world’s largest catfish.",
+    "option1": "for",
+    "option2": "in",
+    "option3": "to",
+    "option4": "within",
+    "answer": "to"
+  }
 ]
