@@ -1,1 +1,114 @@
-[{"Question":"Which of the following is NOT a public sector insurance company?","option 1":"United India Insurance Company Limited","option 2":"The New India Assurance Company Limited","option 3":"SBI Life Insurance","option 4":"General Insurance Corporation of India","answer":"SBI Life Insurance"},{"Question":"As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.","option 1":"2011-12","option 2":"Â 2013-14","option 3":"2005-06","option 4":"Â 2009-10","answer":"2011-12"},{"Question":"To which of the following sectors of the economy do Basel III norms belong?","option 1":"\"Banking \"","option 2":"Capital market","option 3":"Automobile","option 4":"Aviation","answer":"\"Banking \""},{"Question":" Which Indian finance minister was Indiaâ€™s delegate to the World Monetary Conference at Bretton Woods in 1944?","option 1":"Â KC Neogy","option 2":"CD Deshmukh","option 3":"John Mathai","option 4":" RK Shanmukham Chetty","answer":" RK Shanmukham Chetty"},{"Question":"The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.","option 1":"10-Dec-15","option 2":"02-Dec-11","option 3":"8-Dec-2013â€¯","option 4":"05-Dec-12","answer":"02-Dec-11"},{"Question":"The ______ was nationalised in the year 1949.","option 1":"Union Bank of India","option 2":"Â Reserve Bank of India","option 3":"Imperial Bank of India","option 4":"Central Bank of India","answer":"Â Reserve Bank of India"},{"Question":"Who is known as the father of Blue Revolution in India?","option 1":"Verghese Kurien","option 2":"Sam Pitroda","option 3":"Hiralal Chaudhuri","option 4":"M.S. Swaminathan","answer":"Hiralal Chaudhuri"},{"Question":"Labour Intensive Technique would get chosen in aâ€“","option 1":"Labour Surplus Economy","option 2":"Capital Surplus Economy","option 3":"Developed Economy","option 4":"Developing Economy","answer":"Labour Surplus Economy"},{"Question":"The Surplus earned by a factor other thus land in the short period is referred as â€“","option 1":"Economic Rent","option 2":" Net Rent","option 3":" Quasi-Rent","option 4":"Super-Normal Rent","answer":" Quasi-Rent"},{"Question":"The Relationship between rate of interest and consumption level was firstly estimated byâ€“","option 1":"Amartya Sen","option 2":"Milton Freedman","option 3":" Irwing Fischer","option 4":"James Duezan Berry","answer":"Milton Freedman"},{"Question":"Due to worldwide great depression, â€˜New Dealâ€™ was declared by?","option 1":" Abhraham Lincon","option 2":"Benzamin Frankllin","option 3":"J.F. Kennedy","option 4":" Roozwelt","answer":" Roozwelt"},{"Question":"Rent is a cost paid forâ€“","option 1":"Land","option 2":"Restaurant","option 3":" Building","option 4":"Factory","answer":"Land"},{"Question":"The Production of a commodity mostly through the natural process is an activity ofâ€“","option 1":"Primary Sector","option 2":"Secondary Sector","option 3":"Tertiary Sector","option 4":"Technology Sector","answer":"Primary Sector"},{"Question":"The Social Accounting system in India is classified intoâ€“","option 1":" Assets, Liabilities and Debt Position","option 2":"Public sector, Private Sector and Joint Sector","option 3":" Income, Product and Expenditure","option 4":"Enterprise, Households and Government","answer":" Income, Product and Expenditure"}]
+[
+    {
+        "Question": "Which of the following is NOT a public sector insurance company?",
+        "option 1": "United India Insurance Company Limited",
+        "option 2": "The New India Assurance Company Limited",
+        "option 3": "SBI Life Insurance",
+        "option 4": "General Insurance Corporation of India",
+        "answer": "SBI Life Insurance"
+    },
+    {
+        "Question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
+        "option 1": "2011-12",
+        "option 2": "Â 2013-14",
+        "option 3": "2005-06",
+        "option 4": "Â 2009-10",
+        "answer": "2011-12"
+    },
+    {
+        "Question": "To which of the following sectors of the economy do Basel III norms belong?",
+        "option 1": "\"Banking \"",
+        "option 2": "Capital market",
+        "option 3": "Automobile",
+        "option 4": "Aviation",
+        "answer": "\"Banking \""
+    },
+    {
+        "Question": " Which Indian finance minister was Indiaâ€™s delegate to the World Monetary Conference at Bretton Woods in 1944?",
+        "option 1": "Â KC Neogy",
+        "option 2": "CD Deshmukh",
+        "option 3": "John Mathai",
+        "option 4": " RK Shanmukham Chetty",
+        "answer": " RK Shanmukham Chetty"
+    },
+    {
+        "Question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
+        "option 1": "10-Dec-15",
+        "option 2": "02-Dec-11",
+        "option 3": "8-Dec-2013â€¯",
+        "option 4": "05-Dec-12",
+        "answer": "02-Dec-11"
+    },
+    {
+        "Question": "The ______ was nationalised in the year 1949.",
+        "option 1": "Union Bank of India",
+        "option 2": "Â Reserve Bank of India",
+        "option 3": "Imperial Bank of India",
+        "option 4": "Central Bank of India",
+        "answer": "Â Reserve Bank of India"
+    },
+    {
+        "Question": "Who is known as the father of Blue Revolution in India?",
+        "option 1": "Verghese Kurien",
+        "option 2": "Sam Pitroda",
+        "option 3": "Hiralal Chaudhuri",
+        "option 4": "M.S. Swaminathan",
+        "answer": "Hiralal Chaudhuri"
+    },
+    {
+        "Question": "Labour Intensive Technique would get chosen in aâ€“",
+        "option 1": "Labour Surplus Economy",
+        "option 2": "Capital Surplus Economy",
+        "option 3": "Developed Economy",
+        "option 4": "Developing Economy",
+        "answer": "Labour Surplus Economy"
+    },
+    {
+        "Question": "The Surplus earned by a factor other thus land in the short period is referred as â€“",
+        "option 1": "Economic Rent",
+        "option 2": " Net Rent",
+        "option 3": " Quasi-Rent",
+        "option 4": "Super-Normal Rent",
+        "answer": " Quasi-Rent"
+    },
+    {
+        "Question": "The Relationship between rate of interest and consumption level was firstly estimated byâ€“",
+        "option 1": "Amartya Sen",
+        "option 2": "Milton Freedman",
+        "option 3": " Irwing Fischer",
+        "option 4": "James Duezan Berry",
+        "answer": "Milton Freedman"
+    },
+    {
+        "Question": "Due to worldwide great depression, â€˜New Dealâ€™ was declared by?",
+        "option 1": " Abhraham Lincon",
+        "option 2": "Benzamin Frankllin",
+        "option 3": "J.F. Kennedy",
+        "option 4": " Roozwelt",
+        "answer": " Roozwelt"
+    },
+    {
+        "Question": "Rent is a cost paid forâ€“",
+        "option 1": "Land",
+        "option 2": "Restaurant",
+        "option 3": " Building",
+        "option 4": "Factory",
+        "answer": "Land"
+    },
+    {
+        "Question": "The Production of a commodity mostly through the natural process is an activity ofâ€“",
+        "option 1": "Primary Sector",
+        "option 2": "Secondary Sector",
+        "option 3": "Tertiary Sector",
+        "option 4": "Technology Sector",
+        "answer": "Primary Sector"
+    },
+    {
+        "Question": "The Social Accounting system in India is classified intoâ€“",
+        "option 1": " Assets, Liabilities and Debt Position",
+        "option 2": "Public sector, Private Sector and Joint Sector",
+        "option 3": " Income, Product and Expenditure",
+        "option 4": "Enterprise, Households and Government",
+        "answer": " Income, Product and Expenditure"
+    }
+]
