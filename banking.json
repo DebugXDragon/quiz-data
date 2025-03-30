@@ -1,6 +1,6 @@
 [
     {
-        "Question": "Which of the following is NOT a public sector insurance company?",
+        "question": "Which of the following is NOT a public sector insurance company?",
         "option 1": "United India Insurance Company Limited",
         "option 2": "The New India Assurance Company Limited",
         "option 3": "SBI Life Insurance",
@@ -8,7 +8,7 @@
         "answer": "SBI Life Insurance"
     },
     {
-        "Question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
+        "question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
         "option 1": "2011-12",
         "option 2": "Â 2013-14",
         "option 3": "2005-06",
@@ -16,7 +16,7 @@
         "answer": "2011-12"
     },
     {
-        "Question": "To which of the following sectors of the economy do Basel III norms belong?",
+        "question": "To which of the following sectors of the economy do Basel III norms belong?",
         "option 1": "\"Banking \"",
         "option 2": "Capital market",
         "option 3": "Automobile",
@@ -24,7 +24,7 @@
         "answer": "\"Banking \""
     },
     {
-        "Question": " Which Indian finance minister was Indiaâ€™s delegate to the World Monetary Conference at Bretton Woods in 1944?",
+        "question": " Which Indian finance minister was Indiaâ€™s delegate to the World Monetary Conference at Bretton Woods in 1944?",
         "option 1": "Â KC Neogy",
         "option 2": "CD Deshmukh",
         "option 3": "John Mathai",
@@ -32,7 +32,7 @@
         "answer": " RK Shanmukham Chetty"
     },
     {
-        "Question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
+        "question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
         "option 1": "10-Dec-15",
         "option 2": "02-Dec-11",
         "option 3": "8-Dec-2013â€¯",
@@ -40,7 +40,7 @@
         "answer": "02-Dec-11"
     },
     {
-        "Question": "The ______ was nationalised in the year 1949.",
+        "question": "The ______ was nationalised in the year 1949.",
         "option 1": "Union Bank of India",
         "option 2": "Â Reserve Bank of India",
         "option 3": "Imperial Bank of India",
@@ -48,7 +48,7 @@
         "answer": "Â Reserve Bank of India"
     },
     {
-        "Question": "Who is known as the father of Blue Revolution in India?",
+        "question": "Who is known as the father of Blue Revolution in India?",
         "option 1": "Verghese Kurien",
         "option 2": "Sam Pitroda",
         "option 3": "Hiralal Chaudhuri",
@@ -56,7 +56,7 @@
         "answer": "Hiralal Chaudhuri"
     },
     {
-        "Question": "Labour Intensive Technique would get chosen in aâ€“",
+        "question": "Labour Intensive Technique would get chosen in aâ€“",
         "option 1": "Labour Surplus Economy",
         "option 2": "Capital Surplus Economy",
         "option 3": "Developed Economy",
@@ -64,7 +64,7 @@
         "answer": "Labour Surplus Economy"
     },
     {
-        "Question": "The Surplus earned by a factor other thus land in the short period is referred as â€“",
+        "question": "The Surplus earned by a factor other thus land in the short period is referred as â€“",
         "option 1": "Economic Rent",
         "option 2": " Net Rent",
         "option 3": " Quasi-Rent",
@@ -72,7 +72,7 @@
         "answer": " Quasi-Rent"
     },
     {
-        "Question": "The Relationship between rate of interest and consumption level was firstly estimated byâ€“",
+        "question": "The Relationship between rate of interest and consumption level was firstly estimated byâ€“",
         "option 1": "Amartya Sen",
         "option 2": "Milton Freedman",
         "option 3": " Irwing Fischer",
@@ -80,7 +80,7 @@
         "answer": "Milton Freedman"
     },
     {
-        "Question": "Due to worldwide great depression, â€˜New Dealâ€™ was declared by?",
+        "question": "Due to worldwide great depression, â€˜New Dealâ€™ was declared by?",
         "option 1": " Abhraham Lincon",
         "option 2": "Benzamin Frankllin",
         "option 3": "J.F. Kennedy",
@@ -88,7 +88,7 @@
         "answer": " Roozwelt"
     },
     {
-        "Question": "Rent is a cost paid forâ€“",
+        "question": "Rent is a cost paid forâ€“",
         "option 1": "Land",
         "option 2": "Restaurant",
         "option 3": " Building",
@@ -96,7 +96,7 @@
         "answer": "Land"
     },
     {
-        "Question": "The Production of a commodity mostly through the natural process is an activity ofâ€“",
+        "question": "The Production of a commodity mostly through the natural process is an activity ofâ€“",
         "option 1": "Primary Sector",
         "option 2": "Secondary Sector",
         "option 3": "Tertiary Sector",
@@ -104,7 +104,7 @@
         "answer": "Primary Sector"
     },
     {
-        "Question": "The Social Accounting system in India is classified intoâ€“",
+        "question": "The Social Accounting system in India is classified intoâ€“",
         "option 1": " Assets, Liabilities and Debt Position",
         "option 2": "Public sector, Private Sector and Joint Sector",
         "option 3": " Income, Product and Expenditure",
@@ -112,7 +112,7 @@
         "answer": " Income, Product and Expenditure"
     },
     {
-        "Question": "_______________ is the value of dismantle material of the built-up property after useful period.",
+        "question": "_______________ is the value of dismantle material of the built-up property after useful period.",
         "option 1": "Scrap Value\t",
         "option 2": "Salvage Value",
         "option 3": "Market Value",
@@ -120,7 +120,7 @@
         "answer": "Scrap Value"
     },
     {
-        "Question": "_______________ is the estimated resale value of an asset at the end of its useful life.",
+        "question": "_______________ is the estimated resale value of an asset at the end of its useful life.",
         "option 1": "Scrap Value\t",
         "option 2": "Salvage Value",
         "option 3": "Market Value\t",
@@ -128,7 +128,7 @@
         "answer": "Salvage Value"
     },
     {
-        "Question": "Fund containing money set aside or saved to pay off a debt or bond is called-",
+        "question": "Fund containing money set aside or saved to pay off a debt or bond is called-",
         "option 1": "Sinking Fund",
         "option 2": "Mutual Fund",
         "option 3": "Saving Fund",
@@ -136,7 +136,7 @@
         "answer": "Sinking Fund"
     },
     {
-        "Question": "The Gradual Loss in the Value of Property due to its use, wear and Tear, Obsolescence is called-",
+        "question": "The Gradual Loss in the Value of Property due to its use, wear and Tear, Obsolescence is called-",
         "option 1": "Appreciation\t",
         "option 2": "Depreciation ",
         "option 3": "Net Worth\t",
@@ -144,7 +144,7 @@
         "answer": "Depreciation "
     },
     {
-        "Question": "A voluntary arrangement between two or more parties that is enforceable by law as a binding legal agreement is known as __________",
+        "question": "A voluntary arrangement between two or more parties that is enforceable by law as a binding legal agreement is known as __________",
         "option 1": "Job",
         "option 2": "Loan",
         "option 3": "Contract",
@@ -152,7 +152,7 @@
         "answer": "Contract"
     },
     {
-        "Question": "A tender is advertised in ______ ",
+        "question": "A tender is advertised in ______ ",
         "option 1": "newspapers",
         "option 2": "business environment",
         "option 3": "domestic markets",
