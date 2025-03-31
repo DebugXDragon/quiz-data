@@ -1,162 +1,162 @@
 [
-    {
-        "Question": "The boy ____ came to see me this morning had come from Agra.",
-        "option1": "which",
-        "option2": "who",
-        "option3": " that",
-        "option4": "whom",
-        "answer": "who"
-    },
-    {
-        "Question": "You _____ be mad if you think Iâ€™m going to lend you any more money.",
-        "option1": " might",
-        "option2": " should",
-        "option3": " ought to",
-        "option4": "must",
-        "answer": "must"
-    },
-    {
-        "Question": "Having ______ in both government and private schools, Palak is the most suitable person to take over as the principal of the school.",
-        "option1": "works",
-        "option2": "working",
-        "option3": "worked",
-        "option4": "was working",
-        "answer": "worked"
-    },
-    {
-        "Question": "The rotten smell was so _________ that she became unconscious then and there and had to be hospitalized.",
-        "option1": "revolting",
-        "option2": "gratifying",
-        "option3": "captivating",
-        "option4": "unappealing",
-        "answer": "revolting"
-    },
-    {
-        "Question": "Single-use plastic refers to the entire class of items that are used once and then _____ of.",
-        "option1": " thought",
-        "option2": " excluded",
-        "option3": "abandoned",
-        "option4": "disposed",
-        "answer": "disposed"
-    },
-    {
-        "Question": "Yesterday, the villagers caught a burglar _______ a bottle of oil from the community hall.",
-        "option1": "embezzling",
-        "option2": "frauding",
-        "option3": "swindling",
-        "option4": "pilfering",
-        "answer": "pilfering"
-    },
-    {
-        "Question": "Right now, the concern is about banks not lowering their lending rates fast enough, ______ the repo rate has been coming down.",
-        "option1": "because",
-        "option2": "since",
-        "option3": "although",
-        "option4": "from",
-        "answer": "although"
-    },
-    {
-        "Question": "Smoking will never be given up, _____ the tobacco industry thrives.",
-        "option1": " so that",
-        "option2": "as long as",
-        "option3": " though",
-        "option4": "as if",
-        "answer": "as long as"
-    },
-    {
-        "Question": "Are you looking forward ____ Akhil again?",
-        "option1": "seeing",
-        "option2": "to see",
-        "option3": " to be seeing",
-        "option4": " to seeing",
-        "answer": " to seeing"
-    },
-    {
-        "Question": "He _____ a lot of letters yesterday.",
-        "option1": " had written",
-        "option2": "had been writing",
-        "option3": "wrote",
-        "option4": " has written",
-        "answer": "wrote"
-    },
-    {
-        "Question": "Banks should be left free to set their lending rates, in ______ with their cost of funds and market conditions, apart from borrower profile.",
-        "option1": " lending",
-        "option2": " meeting",
-        "option3": "settling",
-        "option4": "accordance",
-        "answer": "accordance"
-    },
-    {
-        "Question": "The police commissioner condemned the _________ murder and vowed to apprehend the wrongdoers within a fortnight.",
-        "option1": "grisly",
-        "option2": "gruesome",
-        "option3": "All of the above",
-        "option4": "ghastly",
-        "answer": "All of the above"
-    },
-    {
-        "Question": "The ________ apparition stalked Reshma for days and ultimately threw her off the cliff.",
-        "option1": " vindictive",
-        "option2": "benevolent",
-        "option3": "magnanimous",
-        "option4": "callous",
-        "answer": " vindictive"
-    },
-    {
-        "Question": "A heavy storm was forecast _____ the weather was clear.",
-        "option1": "but",
-        "option2": "because",
-        "option3": "unless",
-        "option4": "and",
-        "answer": "but"
-    },
-    {
-        "Question": "If he had gone to Agra, he _____ the Taj Mahal.",
-        "option1": "have been seen",
-        "option2": "had been seen",
-        "option3": " saw",
-        "option4": "would have seen",
-        "answer": "would have seen"
-    },
-    {
-        "Question": "It will make a bad economic situation marginally ______ and, perhaps, even create a black market in certain articles.",
-        "option1": "good",
-        "option2": "worse",
-        "option3": "better",
-        "option4": "weaker",
-        "answer": "worse"
-    },
-    {
-        "Question": "Indiaâ€™s problem is not the paucity of traffic rules and regulations but a general ______ for them.",
-        "option1": " insistence",
-        "option2": "absence",
-        "option3": "allocation",
-        "option4": " disregard",
-        "answer": " disregard"
-    },
-    {
-        "Question": "The Mekong is also home ______ the worldâ€™s largest catfish.",
-        "option1": " for",
-        "option2": "in",
-        "option3": "within",
-        "option4": " to",
-        "answer": " to"
-    },
-    {
-        "Question": "They ______________ her and trusted her for years",
-        "option1": "know",
-        "option2": "knew",
-        "option3": "had known",
-        "option4": "known",
-        "answer": "knew"
-    },
-    {
-        "Question": "Every morning she ______________ up early and gets ready for work.",
-        "option1": "is waking",
-        "option2": "has woken",
-        "option3": "had woken",
-        "option4": "wakes",
-        "answer": "wakes"
-    }
+  {
+    "question": "Three of the following four are alike in a certain way and they form a group. Which one is the one who does not join this group?",
+    "option1": "Barometer",
+    "option2": "Diameter",
+    "option3": "Thermometer",
+    "option4": "Lactometer",
+    "answer": "Diameter"
+  },
+  {
+    "question": "In the following question, select the odd word pair from the given alternatives.",
+    "option1": "Hanger : Aeroplane",
+    "option2": "Yard : Train",
+    "option3": "Depot : Bus",
+    "option4": "Scooter : Garage",
+    "answer": "Scooter : Garage"
+  },
+  {
+    "question": "Directions: In each of the following questions, select the related word from the given alternatives.   Q :  Suggestion : Demand :: Take : ?",
+    "option1": "Gain",
+    "option2": "Gift",
+    "option3": "Give",
+    "option4": "Snatch",
+    "answer": "Snatch"
+  },
+  {
+    "question": "If A = 26 and TEA = 55, then SPATTER = ?",
+    "option1": 90,
+    "option2": 92,
+    "option3": 91,
+    "option4": 95,
+    "answer": 90
+  },
+  {
+    "question": "If COIL = 315912 and POLICE = 161512935 then PRICE = ?",
+    "option1": 1516824,
+    "option2": 1517824,
+    "option3": 1618935,
+    "option4": 1718935,
+    "answer": 1618935
+  },
+  {
+    "question": "In a certain code language, ORBIT is written as LUYLQ. How will GRADUATE be written as in that language?",
+    "option1": "DQHDUXGR",
+    "option2": "DUXGRDQH",
+    "option3": "XGRDQHDU",
+    "option4": "HDURDQGR",
+    "answer": "DUXGRDQH"
+  },
+  {
+    "question": "In a certain code language, ‘JAN’ is written as ‘25’, ‘WED’ is written as ’32’. What is the code for ‘SEP’ in that code language?",
+    "option1": 38,
+    "option2": 40,
+    "option3": 39,
+    "option4": 36,
+    "answer": 40
+  },
+  {
+    "question": "If ‘DEAN’ is written as ‘NOKX’ then ‘NEED’ is written as :",
+    "option1": "NOOX",
+    "option2": "XONO",
+    "option3": "ONOX",
+    "option4": "XOON",
+    "answer": "XOON"
+  },
+  {
+    "question": "Jayant introduces a man to his friend as his wife's father's son. The man is Jayant's _____",
+    "option1": "Brother-in-law",
+    "option2": "Sister-in-law",
+    "option3": "Father-in-law",
+    "option4": "Daughter-in-law",
+    "answer": "Brother-in-law"
+  },
+  {
+    "question": "Sailu's mother is the daughter of Kalyan's sister. How is Kalyan's mother related to Sailu's mother?",
+    "option1": "Mother",
+    "option2": "Daughter",
+    "option3": "Sister",
+    "option4": "Grandmother",
+    "answer": "Grandmother"
+  },
+  {
+    "question": "Leela introduces two girls to her friend as the daughters of the only sister of her father. Leela and the girls are ____.",
+    "option1": "Cousins",
+    "option2": "Friends",
+    "option3": "Nieces",
+    "option4": "Twins",
+    "answer": "Cousins"
+  },
+  {
+    "question": "A woman in a shopping complex walks 150 meter East, then she turns North and walks 180 meter, then she turns west and walks 70 meter, then she turns to her left and walks 180 meter. Where is she now with reference to her starting position?",
+    "option1": "180 meter",
+    "option2": "120 meter",
+    "option3": "80 meter",
+    "option4": "220 meter",
+    "answer": "80 meter"
+  },
+  {
+    "question": "Vikram started from point R and walked straight 7 km west, then turned left and walked 2 km and again turned left and walked straight 4 km. In which direction is he from R?",
+    "option1": "North-East",
+    "option2": "South-West",
+    "option3": "South-East",
+    "option4": "North-West",
+    "answer": "North-West"
+  },
+  {
+    "question": "Rashmi is 14th from the right end in a row of 40 girls. What is her position from the left end?",
+    "option1": "25th",
+    "option2": "27th",
+    "option3": "Can’t be determined",
+    "option4": "None of these",
+    "answer": "27th"
+  },
+  {
+    "question": "Savita correctly remembers that Rahul birthday was after Monday but before Friday. Sandeep correctly remembers that Rahul's birthday was after Tuesday but before Saturday. On which day of the week does Rahul's birthday definitely fall?",
+    "option1": "Wednesday",
+    "option2": "Thursday",
+    "option3": "Friday",
+    "option4": "Can't be determined",
+    "answer": "Can't be determined"
+  },
+  {
+    "question": "Nikhilesh is taller than Arvind who is taller than Mahendra. Naresh is smaller than Suresh but taller than Nikhilesh. Who is the smallest?",
+    "option1": "Nikhilesh",
+    "option2": "Arvind",
+    "option3": "Mahendra",
+    "option4": "Data inadequate",
+    "answer": "Mahendra"
+  },
+  {
+    "question": "Which two signs have to be interchanged to correct the given equation? 52 + 64 – 16 ÷ 36 × 6=20",
+    "option1": "÷ and +",
+    "option2": "– and ÷",
+    "option3": "× and ÷",
+    "option4": "+ and ÷",
+    "answer": "× and ÷"
+  },
+  {
+    "question": "Which two numbers have to be interchanged to correct the given equation? 55 + 32 – 4 × ( 1 × 12 ) + ( 16 ÷ 4 ) =31",
+    "option1": "16 and 32",
+    "option2": "55 and 32",
+    "option3": "12 and 32",
+    "option4": "12 and 16",
+    "answer": "16 and 32"
+  },
+  {
+    "question": "Six friends are sitting a circle and are facing the centre of the circle. Deepa is between Prakash and Pankaj. Priti is between Mukesh and Lalit. Prakash and Mukesh are opposite to each other. Q :  Who is sitting opposite to Priti?",
+    "option1": "Prakash",
+    "option2": "Deepa",
+    "option3": "Pankaj",
+    "option4": "Lalit",
+    "answer": "Deepa"
+  },
+  {
+    "question": "In the following question, from the given alternative words, select the word which can be formed using the letters of the given word. CAPITULATE",
+    "option1": "CAPABLE",
+    "option2": "TALE",
+    "option3": "PITTY",
+    "option4": "LUPIN",
+    "answer": "TALE"
+  }
 ]
