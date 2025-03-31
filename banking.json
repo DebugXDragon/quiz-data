@@ -1,162 +1,162 @@
 [
-    {
-        "question": "Which of the following is NOT a public sector insurance company?",
-        "option1": "United India Insurance Company Limited",
-        "option2": "The New India Assurance Company Limited",
-        "option3": "SBI Life Insurance",
-        "option4": "General Insurance Corporation of India",
-        "answer": "SBI Life Insurance"
-    },
-    {
-        "question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
-        "option1": "2011-12",
-        "option2": "Â 2013-14",
-        "option3": "2005-06",
-        "option4": "Â 2009-10",
-        "answer": "2011-12"
-    },
-    {
-        "question": "To which of the following sectors of the economy do Basel III norms belong?",
-        "option1": "\"Banking \"",
-        "option2": "Capital market",
-        "option3": "Automobile",
-        "option4": "Aviation",
-        "answer": "\"Banking \""
-    },
-    {
-        "question": " Which Indian finance minister was Indiaâ€™s delegate to the World Monetary Conference at Bretton Woods in 1944?",
-        "option1": "Â KC Neogy",
-        "option2": "CD Deshmukh",
-        "option3": "John Mathai",
-        "option4": " RK Shanmukham Chetty",
-        "answer": " RK Shanmukham Chetty"
-    },
-    {
-        "question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
-        "option1": "10-Dec-15",
-        "option2": "02-Dec-11",
-        "option3": "8-Dec-2013â€¯",
-        "option4": "05-Dec-12",
-        "answer": "02-Dec-11"
-    },
-    {
-        "question": "The ______ was nationalised in the year 1949.",
-        "option1": "Union Bank of India",
-        "option2": "Â Reserve Bank of India",
-        "option3": "Imperial Bank of India",
-        "option4": "Central Bank of India",
-        "answer": "Â Reserve Bank of India"
-    },
-    {
-        "question": "Who is known as the father of Blue Revolution in India?",
-        "option1": "Verghese Kurien",
-        "option2": "Sam Pitroda",
-        "option3": "Hiralal Chaudhuri",
-        "option4": "M.S. Swaminathan",
-        "answer": "Hiralal Chaudhuri"
-    },
-    {
-        "question": "Labour Intensive Technique would get chosen in aâ€“",
-        "option1": "Labour Surplus Economy",
-        "option2": "Capital Surplus Economy",
-        "option3": "Developed Economy",
-        "option4": "Developing Economy",
-        "answer": "Labour Surplus Economy"
-    },
-    {
-        "question": "The Surplus earned by a factor other thus land in the short period is referred as â€“",
-        "option1": "Economic Rent",
-        "option2": " Net Rent",
-        "option3": " Quasi-Rent",
-        "option4": "Super-Normal Rent",
-        "answer": " Quasi-Rent"
-    },
-    {
-        "question": "The Relationship between rate of interest and consumption level was firstly estimated byâ€“",
-        "option1": "Amartya Sen",
-        "option2": "Milton Freedman",
-        "option3": " Irwing Fischer",
-        "option4": "James Duezan Berry",
-        "answer": "Milton Freedman"
-    },
-    {
-        "question": "Due to worldwide great depression, â€˜New Dealâ€™ was declared by?",
-        "option1": " Abhraham Lincon",
-        "option2": "Benzamin Frankllin",
-        "option3": "J.F. Kennedy",
-        "option4": " Roozwelt",
-        "answer": " Roozwelt"
-    },
-    {
-        "question": "Rent is a cost paid forâ€“",
-        "option1": "Land",
-        "option2": "Restaurant",
-        "option3": " Building",
-        "option4": "Factory",
-        "answer": "Land"
-    },
-    {
-        "question": "The Production of a commodity mostly through the natural process is an activity ofâ€“",
-        "option1": "Primary Sector",
-        "option2": "Secondary Sector",
-        "option3": "Tertiary Sector",
-        "option4": "Technology Sector",
-        "answer": "Primary Sector"
-    },
-    {
-        "question": "The Social Accounting system in India is classified intoâ€“",
-        "option1": " Assets, Liabilities and Debt Position",
-        "option2": "Public sector, Private Sector and Joint Sector",
-        "option3": " Income, Product and Expenditure",
-        "option4": "Enterprise, Households and Government",
-        "answer": " Income, Product and Expenditure"
-    },
-    {
-        "question": "_______________ is the value of dismantle material of the built-up property after useful period.",
-        "option1": "Scrap Value\t",
-        "option2": "Salvage Value",
-        "option3": "Market Value",
-        "option4": "Book Value",
-        "answer": "Scrap Value"
-    },
-    {
-        "question": "_______________ is the estimated resale value of an asset at the end of its useful life.",
-        "option1": "Scrap Value\t",
-        "option2": "Salvage Value",
-        "option3": "Market Value\t",
-        "option4": "Book Value",
-        "answer": "Salvage Value"
-    },
-    {
-        "question": "Fund containing money set aside or saved to pay off a debt or bond is called-",
-        "option1": "Sinking Fund",
-        "option2": "Mutual Fund",
-        "option3": "Saving Fund",
-        "option4": "None of the above",
-        "answer": "Sinking Fund"
-    },
-    {
-        "question": "The Gradual Loss in the Value of Property due to its use, wear and Tear, Obsolescence is called-",
-        "option1": "Appreciation\t",
-        "option2": "Depreciation ",
-        "option3": "Net Worth\t",
-        "option4": "Total Loss",
-        "answer": "Depreciation "
-    },
-    {
-        "question": "A voluntary arrangement between two or more parties that is enforceable by law as a binding legal agreement is known as __________",
-        "option1": "Job",
-        "option2": "Loan",
-        "option3": "Contract",
-        "option4": "Mutual fund",
-        "answer": "Contract"
-    },
-    {
-        "question": "A tender is advertised in ______ ",
-        "option1": "newspapers",
-        "option2": "business environment",
-        "option3": "domestic markets",
-        "option4": "sellers",
-        "answer": "newspapers"
-    }
+  {
+    "question": "Which of the following is NOT a public sector insurance company?",
+    "option1": "United India Insurance Company Limited",
+    "option2": "The New India Assurance Company Limited",
+    "option3": "SBI Life Insurance",
+    "option4": "General Insurance Corporation of India",
+    "answer": "SBI Life Insurance"
+  },
+  {
+    "question": "As per the recommendations of the National Statistical Commission, the Base Year of the GDP Series in India was revised from 2004-05 to ______ with effect from January 2015.",
+    "option1": "2011-12",
+    "option2": "2013-14",
+    "option3": "2005-06",
+    "option4": "2009-10",
+    "answer": "2011-12"
+  },
+  {
+    "question": "To which of the following sectors of the economy do Basel III norms belong?",
+    "option1": "Banking ",
+    "option2": "Capital market",
+    "option3": "Automobile",
+    "option4": "Aviation",
+    "answer": "Banking "
+  },
+  {
+    "question": "Which Indian finance minister was India’s delegate to the World Monetary Conference at Bretton Woods in 1944?",
+    "option1": "KC Neogy",
+    "option2": "CD Deshmukh",
+    "option3": "John Mathai",
+    "option4": "RK Shanmukham Chetty",
+    "answer": "RK Shanmukham Chetty"
+  },
+  {
+    "question": "The Reserve Bank of India introduced a comprehensive regulatory framework for NBFC-MFI on __________.",
+    "option1": "10-Dec-15",
+    "option2": "02-Dec-11",
+    "option3": "8-Dec-2013",
+    "option4": "05-Dec-12",
+    "answer": "02-Dec-11"
+  },
+  {
+    "question": "The ______ was nationalised in the year 1949.",
+    "option1": "Union Bank of India",
+    "option2": "Reserve Bank of India",
+    "option3": "Imperial Bank of India",
+    "option4": "Central Bank of India",
+    "answer": "Reserve Bank of India"
+  },
+  {
+    "question": "Who is known as the father of Blue Revolution in India?",
+    "option1": "Verghese Kurien",
+    "option2": "Sam Pitroda",
+    "option3": "Hiralal Chaudhuri",
+    "option4": "M.S. Swaminathan",
+    "answer": "Hiralal Chaudhuri"
+  },
+  {
+    "question": "Labour Intensive Technique would get chosen in a–",
+    "option1": "Labour Surplus Economy",
+    "option2": "Capital Surplus Economy",
+    "option3": "Developed Economy",
+    "option4": "Developing Economy",
+    "answer": "Labour Surplus Economy"
+  },
+  {
+    "question": "The Surplus earned by a factor other thus land in the short period is referred as –",
+    "option1": "Economic Rent",
+    "option2": "Net Rent",
+    "option3": "Quasi-Rent",
+    "option4": "Super-Normal Rent",
+    "answer": "Quasi-Rent"
+  },
+  {
+    "question": "The Relationship between rate of interest and consumption level was firstly estimated by–",
+    "option1": "Amartya Sen",
+    "option2": "Milton Freedman",
+    "option3": "Irwing Fischer",
+    "option4": "James Duezan Berry",
+    "answer": "Milton Freedman"
+  },
+  {
+    "question": "Due to worldwide great depression, ‘New Deal’ was declared by?",
+    "option1": "Abhraham Lincon",
+    "option2": "Benzamin Frankllin",
+    "option3": "J.F. Kennedy",
+    "option4": "Roozwelt",
+    "answer": "Roozwelt"
+  },
+  {
+    "question": "Rent is a cost paid for–",
+    "option1": "Land",
+    "option2": "Restaurant",
+    "option3": "Building",
+    "option4": "Factory",
+    "answer": "Land"
+  },
+  {
+    "question": "The Production of a commodity mostly through the natural process is an activity of–",
+    "option1": "Primary Sector",
+    "option2": "Secondary Sector",
+    "option3": "Tertiary Sector",
+    "option4": "Technology Sector",
+    "answer": "Primary Sector"
+  },
+  {
+    "question": "The Social Accounting system in India is classified into–",
+    "option1": "Assets, Liabilities and Debt Position",
+    "option2": "Public sector, Private Sector and Joint Sector",
+    "option3": "Income, Product and Expenditure",
+    "option4": "Enterprise, Households and Government",
+    "answer": "Income, Product and Expenditure"
+  },
+  {
+    "question": "_______________ is the value of dismantle material of the built-up property after useful period.",
+    "option1": "Scrap Value",
+    "option2": "Salvage Value",
+    "option3": "Market Value",
+    "option4": "Book Value",
+    "answer": "Scrap Value"
+  },
+  {
+    "question": "_______________ is the estimated resale value of an asset at the end of its useful life.",
+    "option1": "Scrap Value",
+    "option2": "Salvage Value",
+    "option3": "Market Value",
+    "option4": "Book Value",
+    "answer": "Salvage Value"
+  },
+  {
+    "question": "Fund containing money set aside or saved to pay off a debt or bond is called-",
+    "option1": "Sinking Fund",
+    "option2": "Mutual Fund",
+    "option3": "Saving Fund",
+    "option4": "None of the above",
+    "answer": "Sinking Fund"
+  },
+  {
+    "question": "The Gradual Loss in the Value of Property due to its use, wear and Tear, Obsolescence is called-",
+    "option1": "Appreciation",
+    "option2": "Depreciation",
+    "option3": "Net Worth",
+    "option4": "Total Loss",
+    "answer": "Depreciation"
+  },
+  {
+    "question": "A voluntary arrangement between two or more parties that is enforceable by law as a binding legal agreement is known as __________",
+    "option1": "Job",
+    "option2": "Loan",
+    "option3": "Contract",
+    "option4": "Mutual fund",
+    "answer": "Contract"
+  },
+  {
+    "question": "A tender is advertised in ______",
+    "option1": "newspapers",
+    "option2": "business environment",
+    "option3": "domestic markets",
+    "option4": "sellers",
+    "answer": "newspapers"
+  }
 ]
